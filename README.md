@@ -1,5 +1,6 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://worldbank-data.streamlit.app/)  
 # ForeSight – Forecast + Insight
-Data Cleaning, Forecasting, and Policy Analysis on World Bank's World Development Indicators Dataset
+**Data Cleaning, Forecasting, and Policy Analysis** on the World Bank's World Development Indicators Dataset
 
 ## Screenshot
 Here is a screenshot from the live demo:
