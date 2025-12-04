@@ -1,10 +1,10 @@
-<img width="369" height="293" alt="image" src="https://github.com/user-attachments/assets/66779806-c3ca-4414-9e20-d5fcffda5234" /># ForeSight – Forecast + Insight
+# ForeSight – Forecast + Insight
 Data Cleaning, Forecasting, and Policy Analysis on World Bank's World Development Indicators Dataset
 
 ## Screenshot
 Here is a screenshot from the live demo:
 
-![Screenshot](/screenshot.jpeg)
+![Screenshot](/screenshot.jpg)
 
 ## Overview
 This project involves data cleaning, transformation, forecasting, and policy analysis using economic and social indicators from multiple countries. The workflow includes:
